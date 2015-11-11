@@ -3,4 +3,4 @@ Hello World :)
 
 Ovo je sa development brancha.
 
-sa druge masine
+sa druge nije nego sa druge masine
